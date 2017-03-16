@@ -6,7 +6,7 @@ permalink: /computing@challoner's/
 source-id: 1kRfvWet0ppO-flTntaN9-F4ItGU3YzyTs9hq5UmhQaE
 published: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XjJQBjWYDTs" frameborder="10"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjJQBjWYDTs" frameborder="100"></iframe>
 <br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XjJQBjWYDTs" frameborder="0" allowfullscreen></iframe>
