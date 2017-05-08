@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table class="table1">>
+<table class="table1">
   <tr>
     <th>Starting point:</th>
     <td>Start of Year 8.</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table class="table1">>
+<table class="table1">
   <tr>
     <th>Lesson Review</th>
   </tr>
