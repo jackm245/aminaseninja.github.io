@@ -6,17 +6,17 @@ permalink: /codecademy-lesson-1/
 source-id: 14qPW_DQcLaZlVuodHC_mK09_ce9vPUAI5vxXM6beOl8
 published: true
 ---
-<table>
+<table class="2">
   <tr>
     <td>Title</td>
     <td>Codecademy Lesson 1</td>
     <td>Date</td>
     <td>02/05/17</td>
   </tr>
-</table>
+</table >
 
 
-<table>
+<table class="2">
   <tr>
     <td>Starting point:</td>
     <td>We have never used codecademy before</td>
@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-<table>
+<table class="2">
   <tr>
     <td>Lesson Review</td>
   </tr>
