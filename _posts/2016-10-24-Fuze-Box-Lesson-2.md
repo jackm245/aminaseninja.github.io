@@ -6,7 +6,7 @@ permalink: /fuze-box-lesson-2/
 source-id: 15NamG2Z3vkTpQVi1y5Kt8Xum7DVjp0JIE2CD6iACOm0
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
     <th>Title</th>
     <td>Fuze Box Lesson 2</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Starting point:</th>
     <td>Last lesson we learnt how to set up a Fuze box</td>
@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Lesson Review</th>
   </tr>
