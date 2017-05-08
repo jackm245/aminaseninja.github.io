@@ -29,7 +29,7 @@ body {
   
 }
 
-.table1{
+table{
  	border-collapse: collapse; 
          width: 100%; 
 
@@ -38,13 +38,13 @@ body {
 	
 }
 
-.table1, th, td {
+table, th, td {
 
 
 
 }
 
-.table1, td {
+table, td {
     background: #ededed;
     border: 1px solid Black;
    color: #000000;
@@ -53,7 +53,7 @@ body {
 	  
 }
 
-.table1, th {
+table, th {
     
     color: #ededed; 
     background: #000000; 
