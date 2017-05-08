@@ -6,7 +6,7 @@ permalink: /my-blog-reveiw/
 source-id: 13uMZTSizYWmZc4GTpwezqyxreEka99yI7hX6fqginAI
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
     <th>Title</th>
     <td>My Blog Reveiw</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Starting point:</th>
     <td>I started this blog from a forked version of Jekyll Now.</td>
@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Lesson Review</th>
   </tr>
