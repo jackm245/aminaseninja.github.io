@@ -30,7 +30,7 @@ body {
 }
 
 table{
-	border-collapse: collapse; 
+ 	border-collapse: collapse; 
          width: 100%; 
 
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
@@ -62,7 +62,7 @@ table, th {
 	border: 1px solid #ededed;
 }
 
-table.2{
+.table2 {
 	border-collapse: collapse; 
          width: 100%; 
 
@@ -70,7 +70,7 @@ table.2{
 	
 	
 }
-table.2, td {
+.table2, td {
     background: #9495a5;
     border: 1px solid Black;
    color: #373538;
@@ -78,7 +78,7 @@ table.2, td {
 	vertical-align: middle;
 	  
 }
-table.2, th {
+.table2, th {
     
     color: #9495a5; 
     background: #373538; 
