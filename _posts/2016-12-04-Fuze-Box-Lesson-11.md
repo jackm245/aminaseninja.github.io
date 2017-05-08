@@ -6,7 +6,7 @@ permalink: /fuze-box-lesson-10/
 source-id: 1_jL-Z1lKCl_ZWXrB6pAqWBXUuoymbhSdGptIckZgZaA
 published: true
 ---
-<table class="table1">
+<table class="table2">
   <tr>
     <th>Title</th>
     <td>Fuze Box Lesson 01</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table class="table1">
+<table class="table2">
   <tr>
     <th>Starting point:</th>
     <td>We had started the light detecting resistor</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table class="table1">
+<table class="table2">
   <tr>
     <th>Lesson Review</th>
   </tr>
