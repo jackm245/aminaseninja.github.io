@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="red">Title</th>
     <td>Codecademy Lesson 2</td>
-    <td>Date</td>
+    <th class="red">Date</th>
     <td>02/05/17</td>
   </tr>
 </table>
@@ -18,16 +18,15 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="red">Starting point:</th>
     <td>I have completed the date and time section</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="red">Target for this lesson?</th>
     <td>To Complete the conditionals and control flow section</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th class="red">Did I reach my target? </th>
     <td> Yes, i reached my goal this lesson</td>
   </tr>
 </table>
@@ -35,23 +34,23 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="red">Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="red">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>We started of the lesson by sitting down and talking about what we did last week. I found this very helpful because i got to know how others were getting along. I then got straight into some coding. I was learning about boolean variables. This was very interesting and good reminder of a subject that we covered about scratch in year 7.
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="red">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>Our learning was not limited this lesson because we just got on with the work and tried our hardest.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="red">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will have more perseverance because when i got stuck, I went straight to my friends to help, I should've tried to think about it some more instead of interrupting them.</td>
