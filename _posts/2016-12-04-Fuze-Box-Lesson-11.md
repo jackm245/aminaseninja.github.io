@@ -1,22 +1,22 @@
 ---
-title: Fuze Box Lesson 11
+title: Fuze Box Lesson 10
 layout: post
 author: jack.morgan2
-permalink: /fuze-box-lesson-11/
+permalink: /fuze-box-lesson-10/
 source-id: 1_jL-Z1lKCl_ZWXrB6pAqWBXUuoymbhSdGptIckZgZaA
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
     <th>Title</th>
-    <td>Fuze Box Lesson 11</td>
+    <td>Fuze Box Lesson 01</td>
     <th>Date</th>
     <td>30/11/16</td>
   </tr>
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Starting point:</th>
     <td>We had started the light detecting resistor</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Lesson Review</th>
   </tr>
