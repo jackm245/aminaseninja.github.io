@@ -6,7 +6,7 @@ permalink: /fuze-box-lesson-5/
 source-id: 1oQanX_5eLZQyqQZN3x-wGk25D1a_LkqkmnuWBF_EAQc
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
     <th>Title</th>
     <td>Fuze Box Lesson 5</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Starting point:</th>
     <td>Last lesson we started project stage 1-5</td>
@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <th>Lesson Review</th>
   </tr>
