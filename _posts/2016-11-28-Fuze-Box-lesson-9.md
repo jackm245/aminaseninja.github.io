@@ -6,7 +6,7 @@ permalink: /fuze-box-lesson-9/
 source-id: 1JlbkNY3J4LewPg0gQLHgJIUvVogmhfbUtNp5zDWmvg0
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
   <th>Title</th>
     <td>Fuze Box Lesson 9</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
   <th>starting point:</th>
     <td>Most of the way through the electronics kit</td>
@@ -32,7 +32,7 @@ published: true
   </tr>
 </table>
 
-<table>
+<table class="table1">
   <tr>
     <td>Lesson Review</td>
   </tr>
