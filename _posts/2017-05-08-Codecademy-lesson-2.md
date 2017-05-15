@@ -41,6 +41,11 @@ published: true
   </tr>
   <tr>
     <td>We started of the lesson by sitting down and talking about what we did last week. I found this very helpful because i got to know how others were getting along. I then got straight into some coding. I was learning about boolean variables. This was very interesting and good reminder of a subject that we covered about scratch in year 7.
+    
+    
+    
+    
+    <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/conditionals.png?raw=true"> 
 </td>
   </tr>
   <tr>
