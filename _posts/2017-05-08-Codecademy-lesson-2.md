@@ -45,7 +45,7 @@ published: true
     
     
     
-    <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/conditionals.png?raw=true"> 
+    <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/conditionals.pngraw=true"> 
 </td>
   </tr>
   <tr>
