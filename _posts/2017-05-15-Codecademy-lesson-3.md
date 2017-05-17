@@ -41,8 +41,8 @@ published: true
   <th class="red">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>I worked well this lesson. I thought logically  and persevered to complete my  goal; when there was an error in my code, I retraced my steps and saw what was wrong using my noticing skills.  I then applied my past knowledge from one of the other projects and corrected our mistakes. This allowed me to finishthe  pyglatin.
-    
+    <td>I worked well this lesson. I thought logically  and persevered to complete my  goal; when there was an error in my code, I retraced my steps and saw what was wrong using my noticing skills.  I then applied my past knowledge from one of the other projects and corrected our mistakes. This allowed me to finish the  pyglatin.
+      
     
     
     
