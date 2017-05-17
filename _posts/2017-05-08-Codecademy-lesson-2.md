@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <th class="red">Did I reach my target? </th>
-    <td> Yes, i reached my goal this lesson</td>
+    <td> Yes, I reached my goal this lesson</td>
   </tr>
 </table>
 
