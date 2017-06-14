@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Decompiling </td>
-    <td>Date</td>
+    <th>Date</th>
     <td>14/06.17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Before this lesson. I didn't know what decompiling was.</td>
   </tr>
   <tr>
-    <td>Target</td>
+    <th>Target</th>
     <td>to learn was decompiling is.</td>
   </tr>
   <tr>
-    <td>Did I reach my target?
-</td>
+    <th>Did I reach my target?
+</th>
     <td>Yes</td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
     <td>Today in our it lesson we had mr keen teaching us. During the lesson we were talking about decompiling instructions. 
