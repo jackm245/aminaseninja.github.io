@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="red">Title</th>
     <td>Codecademy Lesson 4</td>
-    <td>Date</td>
+    <th class="red">Date</th>
     <td>16/5/17</td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ published: true
     <td> This lesson's work was easier than last weeks and I worked well with nothing in my way so I will work the same as this lesson. Meaning that there was little that limited my learning and next lesson I won’t have to change my working pattern.</td>
   </tr>
   <tr>
-  <tth class="red">What will I change for next time? How will I improve my learning?</th>
+  <th class="red">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>for the next lesson, I will try to stay more on track, not distract my friends and keep chat to only about the work.</td>
