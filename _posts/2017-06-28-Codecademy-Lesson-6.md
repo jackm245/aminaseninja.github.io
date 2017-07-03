@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="red">Title</th>
     <td>Codecademy Lesson 6</td>
-    <td>Date</td>
+    <th class="red">Date</th>
     <td>21/6/17</td>
   </tr>
 </table>
@@ -18,15 +18,15 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="red">Starting point:</th>
     <td>38% through python </td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="red">Target for this lesson?</th>
     <td>47% through the Python </td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th class="red">Did I reach my target? </th>
     <td>Yes, I worked extremely hard to reach this goal.</td>
   </tr>
 </table>
@@ -34,10 +34,10 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="red">Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="red">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td> Once more my three step process was in action so I was fast and efficient for the period of time that I was learning using codecademy. For the second half of the lesson when we were looking at our blogs I just learned by seeing other people's blogs (though only the ones that are better than mine) and then what I was told by Mr Ampah-Korsah. I loved using python in codecademy.
@@ -48,13 +48,13 @@ published: true
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="red">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>This lesson my learning on codecademy was only stopped by the learning about the </td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="red">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next lesson I will try to be more efficient and prepared for the possibility for the bulk of the learning to be stopped and the blog’s to be assessed by sir. This will be achieved by me just having a higher level of concentration and dedication.</td>
