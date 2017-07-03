@@ -1,5 +1,5 @@
 ---
-title: Codecademy Lesson 8
+title: Codecademy Lesson 7
 layout: post
 author: jack.morgan2
 permalink: /codecademy-lesson-7/
