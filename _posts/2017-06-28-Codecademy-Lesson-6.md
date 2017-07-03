@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Codecademy Lesson 7</td>
+    <td>Codecademy Lesson 6</td>
     <td>Date</td>
     <td>21/6/17</td>
   </tr>
