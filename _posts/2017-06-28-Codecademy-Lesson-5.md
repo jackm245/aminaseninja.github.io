@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="red">Title</th>
     <td>Codecademy Lesson 5</td>
-    <td>Date</td>
+    <th class="red">Date</th>
     <td>14/6/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="red">Starting point:</th>
     <td>29% of the Python syllabus </td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="red">Target for this lesson?</th>
     <td>34% through the Python syllabus</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th class="red">Did I reach my target? 
+</th>
     <td>Yes I got up to 38%</td>
   </tr>
 </table>
@@ -35,23 +35,23 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="red">Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="red">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>Once more I have used my three step process and it was very efficient. I worked well with this and it was very useful. My three step process has definitely been an efficient and industrious method towards working and learning using codecademy.
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>There was nought that stopped my work this lesson and I was efficient for the entire lesson. The only habit that I will need to be working on for next lesson are to try to work more independently and rely on help less.</td>
+    <td>There was not much that stopped my work this lesson and I was efficient for the entire lesson. The only habit that I will need to be working on for next lesson are to try to work more independently and rely on help less.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="red">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next lesson I will change nothing in my working style as I worked well this lesson though as previously mentioned I will try to work  more independently.</td>
