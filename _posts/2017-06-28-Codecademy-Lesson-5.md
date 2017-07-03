@@ -42,6 +42,7 @@ published: true
   </tr>
   <tr>
     <td>Once more I have used my three step process and it was very efficient. I worked well with this and it was very useful. My three step process has definitely been an efficient and industrious method towards working and learning using codecademy.
+    <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/100%20exercises.png?raw=true">
 </td>
   </tr>
   <tr>
