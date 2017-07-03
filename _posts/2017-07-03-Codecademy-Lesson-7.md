@@ -2,14 +2,14 @@
 title: Codecademy Lesson 8
 layout: post
 author: jack.morgan2
-permalink: /codecademy-lesson-8/
+permalink: /codecademy-lesson-7/
 source-id: 1Lu-EFhSsHuZ4uaN6jlkvNMMxuF1yHDhMQEErQAK8K2E
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Codecademy Lesson 8</td>
+    <td>Codecademy Lesson 7</td>
     <td>Date</td>
     <td>26/6/17</td>
   </tr>
