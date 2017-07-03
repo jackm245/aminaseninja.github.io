@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>100 exercises.</td>
+    <td>Codecademy Lesson 7</td>
     <td>Date</td>
-    <td>14/6/17</td>
+    <td>21/6/17</td>
   </tr>
 </table>
 
@@ -19,16 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>38% of the Python syllabus </td>
+    <td>38% through python </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>43% through the Python syllabus</td>
+    <td>47% through the Python </td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td>No but I was close and I got up to 42%</td>
+    <td>Did I reach my target? </td>
+    <td>Yes, I worked extremely hard to reach this goal.</td>
   </tr>
 </table>
 
@@ -41,7 +40,9 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td> Once more my three step process was in action so I was fast and efficient for the period of time that I was learning using codecademy. For the second half of the lesson when we were looking at our blogs I just learned by seeing other people's blogs (though only the ones that are better than mine) and then what I was told by Mr Ampah-Korsah. 
+    <td> Once more my three step process was in action so I was fast and efficient for the period of time that I was learning using codecademy. For the second half of the lesson when we were looking at our blogs I just learned by seeing other people's blogs (though only the ones that are better than mine) and then what I was told by Mr Ampah-Korsah. I loved using python in codecademy.
+    
+    It was extremely fun to learn more about lists and dictionaries this lesson. I definitely learned the most this lesson had had fun awell. This lesson has definitely helped with my love of coding to get me to code more. for homework aswell, I will also do some more codecademy work to boost my progress.
 </td>
   </tr>
   <tr>
