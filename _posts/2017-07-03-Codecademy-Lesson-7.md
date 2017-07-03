@@ -50,7 +50,7 @@ I used lots of perseverance today during the lesson. I needed this skill a lot .
 I have been collaborating with my friends a lot because It is hard, this makes it more enjoyable and helps me get through the syllabus faster.
 
 This lesson, I have learnt a lot about lists and dictionaries, how to easily edit them and delete them.
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/supermarket.png?raw=true">
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/lists.png?raw=true">
 
 </td>
   </tr>
