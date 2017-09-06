@@ -55,7 +55,7 @@ After this we had to start to make a business. We had to make a new sheet on our
 
 We then made another sheet and put in a table, the thing that we sold and the sale price. Like this:
 
-We then highlighted the area and made it into a range. We then went back onto the second sheet and added a new column called individual price. We the used the function called VLOOKUP which looks vertically to find data, however it actually searches for the data horizontally which is strange. I  typed in "=VLOOKUP(B6,AnimalList,2,false)" which added the range that I had typed into sheet 3. The B6 is where my range was or the 'searchkey', The AnimalList was the name of it or the ‘Range’, the ‘2’ Was the column that it was in or the ‘Index’ and the ‘false’ Is whether the data had been sorted or not, which in this case it had not so i put false. We then repeat the same thing for the rest of the column and I got the finished result which is this:
+We then highlighted the area and made it into a range. We then went back onto the second sheet and added a new column called individual price. We the used the function called VLOOKUP which looks vertically to find data, however it actually searches for the data horizontally which is strange. I  typed in "=VLOOKUP(B6,AnimalList,2,false)" which added the range that I had typed into sheet 3. The B6 is where my range was or the 'searchkey', The AnimalList was the name of it or the ‘Range’, the ‘2’ Was the column that it was in or the ‘Index’ and the ‘false’ Is whether the data had been sorted or not, which in this case it had not so I put false. We then repeat the same thing for the rest of the column and I got the finished result which is this:
 
 </td>
   </tr>
