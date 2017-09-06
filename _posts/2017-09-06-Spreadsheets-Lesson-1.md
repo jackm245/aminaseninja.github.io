@@ -43,11 +43,7 @@ published: true
   <tr>
     <td>We started of the lesson by watching our teacher enter some numbers into a spreadsheet. It looked like this:
 
-He then found the sum of one row of number:
-
-The product of another:
-
-And the Average of another:
+We then found the sum, product and average of the numbers:
 
 He then told us to do the same on a spreadsheet and to also change the background colour of our text (however, you must keep all of the colours the same temperature) and the borders of our table. This let us find out things that we didn't know about spreadsheets like the weight of the border, the temperature of the colours and how to align the text. 
 
