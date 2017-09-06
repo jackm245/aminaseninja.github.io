@@ -42,21 +42,29 @@ published: true
   </tr>
   <tr>
     <td>We started of the lesson by watching our teacher enter some numbers into a spreadsheet. It looked like this:
+      <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/numbers%20in%20spreadsheet.PNG?raw=true">
+
 
 We then found the sum, product and average of the numbers:
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/sum%20product%20and%20average.PNG?raw=true">
+
 
 He then told us to do the same on a spreadsheet and to also change the background colour of our text (however, you must keep all of the colours the same temperature) and the borders of our table. This let us find out things that we didn't know about spreadsheets like the weight of the border, the temperature of the colours and how to align the text. 
 
 After messing around with borders and colours my table looked like this:
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/sum%20product%20and%20average%20colour.PNG?raw=true">
+
 
 I liked having the freedom of doing whatever we wanted to our tables because we got to see what would work and look well in our tables and what didn't look as nice. 
 
 After this we had to start to make a business. We had to make a new sheet on our spreadsheet .We then had to decide what we were going to sell, the quantity that we sold and the price that the customers pay. It looked something like this after a bit of colour:
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/Taco%20after%20colour.PNG?raw=true">
 
 We then made another sheet and put in a table, the thing that we sold and the sale price. Like this:
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/sheet%203.PNG?raw=true">
 
 We then highlighted the area and made it into a range. We then went back onto the second sheet and added a new column called individual price. We the used the function called VLOOKUP which looks vertically to find data, however it actually searches for the data horizontally which is strange. I  typed in "=VLOOKUP(B6,AnimalList,2,false)" which added the range that I had typed into sheet 3. The B6 is where my range was or the 'searchkey', The AnimalList was the name of it or the ‘Range’, the ‘2’ Was the column that it was in or the ‘Index’ and the ‘false’ Is whether the data had been sorted or not, which in this case it had not so I put false. We then repeat the same thing for the rest of the column and I got the finished result which is this:
-
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/end%20result.PNG?raw=true">
 </td>
   </tr>
   <tr>
