@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="b">Title</th>
     <td>Spreadsheets Lesson 1</td>
-    <td>Date</td>
+    <th class="b">Date</th>
     <td>06/09/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="b">Starting point:</th>
     <td>I had not used spreadsheets much before, however I remember from some of my lessons in year six how to add cells together.</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="b">Target for this lesson?</th>
     <td>To understand how to add, multiply and find the average of a set of numbers using functions in a spreadsheet. And how to use the VLOOKUP function.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-</td>
+    <th class="b">Did I reach my target? 
+</th>
     <td>Yes, I understood all of the functions.</td>
   </tr>
 </table>
@@ -35,10 +35,10 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="b">Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="b">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>We started of the lesson by watching our teacher enter some numbers into a spreadsheet. It looked like this:
@@ -64,13 +64,13 @@ We then highlighted the area and made it into a range. We then went back onto th
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="b">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td> I need to work on concentrating on my own work and not helping other people as much. That means I will be able to get through even more work and maybe get all of the work done on time. I should let other people sort out their problems themselves.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="b">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will try to encourage others to work out their problems by themselves. This will help them learn more, and , in the long run, benefit them more than just helping them. </td>
