@@ -59,8 +59,16 @@ published: true
 
 However I did get a very good outcome of a spreadsheet where you can make an order form.
 You can order whatever you want below and you will be able to see how much it will cost.
+
+
 </td>
   </tr>
 </table>
+<br>
+<hr>
+<h3>My Spreadsheet Work</h3>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1rqIcxRj5HOwun70yLaIkfiyvBK2Jc1TkwXWOOYKGfX4/-o3ztszco--39Xk9E/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 
