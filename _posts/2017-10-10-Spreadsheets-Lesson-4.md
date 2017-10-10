@@ -45,6 +45,9 @@ published: true
 
 Here is what my sheet looks like so far:
 
+
+<iframe src="https://docs.google.com/spreadsheets/d/1rqIcxRj5HOwun70yLaIkfiyvBK2Jc1TkwXWOOYKGfX4/edit#gid=1129010063/pubhtml?widget=true&amp;headers=false" height="425" width="675"></iframe>
+
 </td>
   </tr>
   <tr>
