@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <th class="b">Title</th>
+    <th> class="b">Title</th>
     <td>Spreadsheets Lesson 4</td>
     <th class="b">Date</th>
     <td>27/09/17</td>
