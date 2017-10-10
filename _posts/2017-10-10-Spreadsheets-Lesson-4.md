@@ -26,7 +26,7 @@ published: true
     <td>To work out the cost of our items</td>
   </tr>
   <tr>
-    <tth class="b">Did I reach my target? 
+    <th class="b">Did I reach my target? 
 </th>
     <td>Yes, I totalled how much my items are going to cost.</td>
   </tr>
