@@ -45,7 +45,7 @@ published: true
 
  During today's lesson, we were looking at discount codes. We created a new sheet called discount codes:
  
- <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/Screen%20Shot%202017-10-11%20at%2018.04.14.PNG?raw=true">
+ <img src="https://raw.githubusercontent.com/jackm245/jackm245.github.io/master/images/Screen%20Shot%202017-10-11%20at%2018.04.14.png?raw=true">
 
 This includes, the starting two letters of the code, the issued code and then the discount that it gives. We then added a new section below our sub-total which was discount. I also made a small box where you can easily add your code, and then a box next to it saying the % discount. There is also a section that shows you how much money you get taken of because of the discount. We had to use the V-LOOKUP function to find the correct discount code and then show us the price that it reduces it by. To find the % discount of a code I used the =VLOOKUP(B13, discounts, 3) command. This finds the 3rd column of the discount named range. I also use =C13*F11*-1 To find out how much the discount reduces the subtotal by. 
 
