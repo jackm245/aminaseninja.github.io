@@ -44,6 +44,8 @@ published: true
     <td>At the beginning of today's lesson, we were discussing why it is important to learn how to use spreadsheets. We came up with answers such as : You will need to use them in your job, you can use them to help with tax returns, you can even use them to see which deal you should get when buying something. A story that our  teacher told us was that he knows someone who used a google sheet to work out which car he should get. He considered the petrol, tax, insurance and cost of the car. This goes to show how useful spreadsheets actually are and, therefore, how important it is that we learn about them.
 
  During today's lesson, we were looking at discount codes. We created a new sheet called discount codes:
+ 
+ <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/Screen%20Shot%202017-10-11%20at%2018.04.14.PNG?raw=true">
 
 This includes, the starting two letters of the code, the issued code and then the discount that it gives. We then added a new section below our sub-total which was discount. I also made a small box where you can easily add your code, and then a box next to it saying the % discount. There is also a section that shows you how much money you get taken of because of the discount. We had to use the V-LOOKUP function to find the correct discount code and then show us the price that it reduces it by. To find the % discount of a code I used the =VLOOKUP(B13, discounts, 3) command. This finds the 3rd column of the discount named range. I also use =C13*F11*-1 To find out how much the discount reduces the subtotal by. 
 
