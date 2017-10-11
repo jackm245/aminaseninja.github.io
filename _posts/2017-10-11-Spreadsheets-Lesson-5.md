@@ -55,6 +55,8 @@ This lesson needed lots of perseverance to solve problems to debug. It requires 
 
 Here is what my sheet looks like so far:
 
+<iframe src="https://docs.google.com/spreadsheets/d/1rqIcxRj5HOwun70yLaIkfiyvBK2Jc1TkwXWOOYKGfX4/edit?usp=sharing/pubhtml?widget=true&headers=false" height="425" width="675"></iframe>
+
 </td>
   </tr>
   <tr>
