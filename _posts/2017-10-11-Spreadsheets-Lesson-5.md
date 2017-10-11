@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="b">Title</th>
     <td>Spreadsheets Lesson 5</td>
-    <td>Date</td>
+    <th class="b">Date</th>
     <td>11/09/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="b">Starting point:</th>
     <td>Last lesson we had made a cost sheet</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="b">Target for this lesson?</th>
     <td>To work out the cost of our items</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-</td>
+    <th class="b">Did I reach my target? 
+</th>
     <td>Yes, I totalled how much my items are going to cost.</td>
   </tr>
 </table>
@@ -35,10 +35,10 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="b">Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="b">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>At the beginning of today's lesson, we were discussing why it is important to learn how to use spreadsheets. We came up with answers such as : You will need to use them in your job, you can use them to help with tax returns, you can even use them to see which deal you should get when buying something. A story that our  teacher told us was that he knows someone who used a google sheet to work out which car he should get. He considered the petrol, tax, insurance and cost of the car. This goes to show how useful spreadsheets actually are and, therefore, how important it is that we learn about them.
@@ -60,13 +60,13 @@ Here is what my sheet looks like so far:
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="b">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>Today my learning was not limited. I got on with the work and achieved my goal.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="b">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I personally Think that I am a "Very Good" student on the criteria that our teacher gave us. However, to push myself that bit harder and become an “Excellent Student” I will need to contribute and put my hand up in class. This is a target that I am trying to work on in all subjects, not just computer science.</td>
