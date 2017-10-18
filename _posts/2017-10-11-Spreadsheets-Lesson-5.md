@@ -54,7 +54,7 @@ Therefore, I have a working discounts section on my order form.
 This lesson needed lots of perseverance to solve problems to debug. It requires lots of logical thinking but you need to have the right attitude when it comes to problem solving. Otherwise, you will get nowhere. However, when things do get hard, I can collaborate with the person next to me to achieve something together. 
 
 Here is what my sheet looks like so far:
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwYvF5pzpbZ5MvK7J45HUUoSu7ZtbrCwD-oaN9XV6FymnUtn7YnQonc34oYvXup5sUazFVEPXWFoqU/pubhtml?widget=true&headers=false height="425" width="675""></iframe> 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwYvF5pzpbZ5MvK7J45HUUoSu7ZtbrCwD-oaN9XV6FymnUtn7YnQonc34oYvXup5sUazFVEPXWFoqU/pubhtml?widget=true&headers=false> height="425" width="675""></iframe> 
 </td>
   </tr>
   <tr>
