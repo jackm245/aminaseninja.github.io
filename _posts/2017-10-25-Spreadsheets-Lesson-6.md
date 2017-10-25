@@ -50,7 +50,12 @@ However, if this supercomputer got in the wrong hands, it could do serious damag
 
 After we had finished talking about supercomputers, we started talking about our spreadsheets.We needed to complete a profit and loss sheet which says if I am losing or gaining money. I even made the cell change green if I am making money and red if I am losing money.
 
-Here is my spreadsheet:</td>
+Here is my spreadsheet:
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwYvF5pzpbZ5MvK7J45HUUoSu7ZtbrCwD-oaN9XV6FymnUtn7YnQonc34oYvXup5sUazFVEPXWFoqU/pubhtml?widget=true&headers=false" height="400" width="675"></iframe>
+
+
+
+</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
