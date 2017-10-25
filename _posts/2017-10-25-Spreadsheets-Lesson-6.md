@@ -6,7 +6,7 @@ permalink: /spreadsheets-lesson-6/
 source-id: 1aCEfa1BGlhLTk3TRgXbaF-pX_t52G7Jnn8Y1OtH_vxU
 published: true
 ---
-<table>
+<table class="table1">
   <tr>
     <td>Title</td>
     <td>Spreadsheets Lesson 6</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <td>Starting point:</td>
     <td>Last lesson we worked out the cost of our items</td>
@@ -33,7 +33,7 @@ published: true
 </table>
 
 
-<table>
+<table class="table1">
   <tr>
     <td>Lesson Review</td>
   </tr>
