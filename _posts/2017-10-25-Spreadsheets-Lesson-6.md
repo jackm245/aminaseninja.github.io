@@ -46,6 +46,8 @@ Todays lesson didn't start very well. Almost every computer had major sign in is
 
 After all of this pandemonium, we started to talk about supercomputers. I can't remember how the conversation even started, but it was a good conversation nonetheless. The world's fastest computer , the Sunway TaihuLight, holds a world record with a rating of 93 PFLOPS or 93 quadrillion floating point operations per second (or 93 million billion). This triples the old world record. This computer contains 10 million cores comprising of 41,000 nodes. The system has memory of 1.3PB, however, this is only 32GB per core, which is not very much.
 
+<img src="https://raw.githubusercontent.com/jackm245/jackm245.github.io/master/images/supercomputer.png?raw=true">
+
 However, if this supercomputer got in the wrong hands, it could do serious damage. It could brute hack an average password in seconds. Our teacher's Password is for his bank account is 36 digits long. This would take a normal computer 688 Nonillion years according to howsecureismypassword.net. However, this would only take this supercomputer minutes.
 
 After we had finished talking about supercomputers, we started talking about our spreadsheets.We needed to complete a profit and loss sheet which says if I am losing or gaining money. I even made the cell change green if I am making money and red if I am losing money.
