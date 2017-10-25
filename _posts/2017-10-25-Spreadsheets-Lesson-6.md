@@ -6,39 +6,39 @@ permalink: /spreadsheets-lesson-6/
 source-id: 1aCEfa1BGlhLTk3TRgXbaF-pX_t52G7Jnn8Y1OtH_vxU
 published: true
 ---
-<table class="table1">
+<table>
   <tr>
-    <td>Title</td>
+    <th class="b">Title</th >
     <td>Spreadsheets Lesson 6</td>
-    <td>Date</td>
+    <th class="b">Date</th >
     <td>18/09/17</td>
   </tr>
 </table>
 
 
-<table class="table1">
+<table>
   <tr>
-    <td>Starting point:</td>
+    <th class="b">Starting point:</th>
     <td>Last lesson we worked out the cost of our items</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="b">Target for this lesson?</th>
     <td>To learn about Profit and Loss sheets</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-</td>
-    <td>Yes, I i am a master of profit and loss sheets. </td>
+    <th class="b">Did I reach my target? 
+</th>
+    <td>Yes, I am a master of profit and loss sheets. </td>
   </tr>
 </table>
 
 
-<table class="table1">
+<table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="b">Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="b">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>
@@ -58,13 +58,13 @@ Here is my spreadsheet:
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="b">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>My learning was limited today because of disastrous logging in issues.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="b">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I personally Think that I am a "Very Good" student on the criteria that our teacher gave us. However, to push myself that bit harder and become an “Excellent Student” I will need to contribute and put my hand up in class. This is a target that I am trying to work on in all subjects, not just computer science.</td>
