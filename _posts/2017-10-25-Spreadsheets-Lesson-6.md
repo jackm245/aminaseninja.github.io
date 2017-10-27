@@ -6,7 +6,7 @@ permalink: /spreadsheets-lesson-6/
 source-id: 1aCEfa1BGlhLTk3TRgXbaF-pX_t52G7Jnn8Y1OtH_vxU
 published: true
 ---
-<table>
+<table class="solid">
   <tr>
     <th class="b">Title</th >
     <td>Spreadsheets Lesson 6</td>
