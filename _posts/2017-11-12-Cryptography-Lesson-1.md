@@ -44,7 +44,10 @@ published: true
     <td>
 We started of this lesson by asking : "What is cryptography?" We started talking about different types of ciphers like the Caesar Cipher. This is where every letter is shifted along the alphabet by 5. So instead of going “ABC” it would become “FGH” or” Hello” would become “Mjqqt”. We also looked briefly at the enigma code. The enigma code was a code that changed every day, so therefore, it was hard to break. However, if you look for the three most common letters in the alphabet : e t and a , then it becomes easier to try and crack a code. 
 
-If you still do not understand what cryptography is, then here is a video from BBC Bitesize about it:
+If you still do not understand what cryptography is, then here is a video from SciShow on youtube about it:
+
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/-yFZGF8FHSg" frameborder="0" allowfullscreen></iframe> 
 
 However, our task was to create a cryptography spreadsheet. We started of by making three columns on the left hand side of our spreadsheet. The first column was the Letter that the user typed in. It went from a-z. It was called “Letter”.  The next column was labeled “Ciphertext” in a shift of 7. It started at G, then went all the way to z and then went from a-f. It was in this order: G H I J K L M N O P Q R S T U V W X Y Z A B C D E F. The third column was then again from a-z, it was called “Original”. I then made a named range of the columns Letter and ciphertext and I called  it “CipherText”. I then made a named range of columns “Ciphertext” and “Original” and I called it “OriginalText”. 
 
