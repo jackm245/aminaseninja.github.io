@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="orange">Title</th>
     <td>Cryptography Lesson 1</td>
-    <td>Date</td>
+    <th class="orange">Date</th>
     <td>8/11/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="orange">Starting point:</th>
     <td>Before this lesson, I knew that cryptography was about codes and ciphers. However, I didn't know how to create or decipher them</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="orange">Target for this lesson?</th>
     <td>To start a spreadsheet where I am to create a caesar cipher.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-</td>
+    <th class="orange">Did I reach my target? 
+</th>
     <td>Yes, I  have written a code so that you can change the number of shifts, type in a message, and te it gives the encoded version and the decoded version</td>
   </tr>
 </table>
@@ -35,10 +35,10 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="orange">Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="orange">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>
@@ -72,13 +72,13 @@ Here is my spreadsheet so far:
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="orange">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>My learning was not limited this lesson, I got on and did all of the set work, and even went beyond that.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="orange">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I am going to keep on challenging myself and keeping up the good work.</td>
