@@ -67,7 +67,7 @@ My improvement point was to create a new Jquery Blog. This is a big challenge, b
 Here is my spreadsheet so far:
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSItZFenbdUkqMxR76Vzmz5hakCE_R96Fum207sZxjcHCRtNGZn1H1gfL3WsllXWb6NVpyuxBKJatqq/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSItZFenbdUkqMxR76Vzmz5hakCE_R96Fum207sZxjcHCRtNGZn1H1gfL3WsllXWb6NVpyuxBKJatqq/pubhtml?widget=true&amp;headers=false"height="400" width="675"></iframe>
 
 </td>
   </tr>
