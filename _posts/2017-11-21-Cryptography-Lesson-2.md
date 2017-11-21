@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="orange">Title</th>
     <td>Cryptography Lesson 2</td>
-    <td>Date</td>
+    <th class="orange">Date</th>
     <td>15/11/17</td>
   </tr>
 </table>
@@ -18,27 +18,27 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="orange">Starting point:</th>
     <td>I have created a simple caesar cipher </td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="orange">Target for this lesson?</th>
     <td>To add a "breakout" section to my spreadsheet.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-</td>
-    <td>Yes, I have completed my task, perfected it, debugged it and advanced onto some extension work</td>
+    <th class="orange">Did I reach my target? 
+</th>
+    <th class="orange">Yes, I have completed my task, perfected it, debugged it and advanced onto some extension work</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th class="orange">Lesson Review</th>
   </tr>
   <tr>
-    <td>Lesson Recap</td>
+    <th class="orange">Lesson Recap</th>
   </tr>
   <tr>
     <td>"What is cryptography?" We started talking about different types of ciphers like the Caesar Cipher. This is where every letter is shifted along the alphabet by 5. So instead of going “ABC” it would become “FGH” or” Hello” would become “Mjqqt”. We also looked briefly at the enigma code. The enigma code was a code that changed every day, so therefore, it was hard to break. However, if you look for the three most common letters in the alphabet : e t and a , then it becomes easier to try and crack a code. 
@@ -46,7 +46,7 @@ published: true
 If you still do not understand what cryptography is, then here is a video from the Scishow on youtube about it:</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="orange">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>
@@ -70,13 +70,13 @@ Here is my spreadsheet so far:
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="orange">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>My learning was not limited this lesson, I got on and did all of the set work, and even went beyond that.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="orange">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I am going to keep on challenging myself and keeping up the good work. 
