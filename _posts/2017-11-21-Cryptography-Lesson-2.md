@@ -28,7 +28,7 @@ published: true
   <tr>
     <th class="orange">Did I reach my target? 
 </th>
-    <th class="orange">Yes, I have completed my task, perfected it, debugged it and advanced onto some extension work</th>
+    <td>Yes, I have completed my task, perfected it, debugged it and advanced onto some extension work</td>
   </tr>
 </table>
 
