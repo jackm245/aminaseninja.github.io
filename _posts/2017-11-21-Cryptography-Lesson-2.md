@@ -43,7 +43,13 @@ published: true
   <tr>
     <td>"What is cryptography?" We started talking about different types of ciphers like the Caesar Cipher. This is where every letter is shifted along the alphabet by 5. So instead of going “ABC” it would become “FGH” or” Hello” would become “Mjqqt”. We also looked briefly at the enigma code. The enigma code was a code that changed every day, so therefore, it was hard to break. However, if you look for the three most common letters in the alphabet : e t and a , then it becomes easier to try and crack a code. 
 <br>
-If you still do not understand what cryptography is, then here is a video from the Scishow on youtube about it:</td>
+If you still do not understand what cryptography is, then here is a video from the Scishow on youtube about it:
+    <br>
+      <br>
+    <iframe width="560" height="560" src="https://www.youtube.com/embed/-yFZGF8FHSg" frameborder="0" allowfullscreen></iframe>
+    
+    
+    </td>
   </tr>
   <tr>
     <th class="orange">How did I learn? What strategies were effective? </th>
