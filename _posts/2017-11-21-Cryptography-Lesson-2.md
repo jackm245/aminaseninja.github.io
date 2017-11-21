@@ -73,7 +73,10 @@ I think that this lesson, I had to use a lot of logical thinking to overcome the
 
 Here is my spreadsheet so far:
 <br>
+<br>
 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSItZFenbdUkqMxR76Vzmz5hakCE_R96Fum207sZxjcHCRtNGZn1H1gfL3WsllXWb6NVpyuxBKJatqq/pubhtml?widget=true&amp;headers=false" height="400" width="675"></iframe>
 
 
 </td>
