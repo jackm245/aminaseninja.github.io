@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th class="lb">Title</th>
     <td>Python Lesson 1</td>
-    <td>Date</td>
+    <th class="lb">Date</th>
     <td>6/03/18</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th class="lb">Starting point:</th>
     <td>I had used python turtle before</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th class="lb">Target for this lesson?</th>
     <td>To add more code to my "dictionary" and to learn about turtle.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-</td>
+    <th class="lb">Did I reach my target? 
+</th>
     <td>Yes, I have learnt a lot about python and how to use the turtle feature.</td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Recap</td>
+    <th class="lb">Lesson Recap</th>
   </tr>
   <tr>
     <td>Python is used everyday, you may not realise it, but many video games are created using python. Python is a programming language. To learn this language, we are using a website called repl.it. This is an amazing website that allows us to code whenever we want (if we have internet connection)
@@ -44,10 +44,10 @@ If you want to learn more, here is a video by the hello world program on what is
 </td>
   </tr>
   <tr>
-    <td>Lesson review</td>
+    <th class="lb">Lesson review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th class="lb">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>After signing up to repl.it, were given the task to create one of the simplest shapes there is, a triangle. First, we had to import turtle. This allowed us to have a little turtle on our screen that could draw lines. Using the turtle.forward(), turtle.backward(), turtle.left() and turtle.right() commands, we were able to move the turtle forwards, backwards, left and right. 
