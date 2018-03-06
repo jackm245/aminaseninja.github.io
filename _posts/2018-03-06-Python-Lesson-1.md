@@ -70,13 +70,13 @@ Our final task was to make the turtle draw our name. This is quite easy for me a
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th class="lb">What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>My learning was not limited this lesson, I got on and did all of the set work, and even went beyond that.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th class="lb">What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I am going to keep on challenging myself and keeping up the good work. 
