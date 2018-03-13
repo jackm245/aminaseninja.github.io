@@ -67,7 +67,7 @@ If you want to learn more, here is a video by the hello world program on what is
 <br>Finding out these shortcuts took my a while to research, it really made me persevere when things didnt go my way however.
 
 <br>However, our task for the lesson was to create our name using bubble writing. I had already written my name in my first lesson, I have written a blog on it  <a href="https://jackm245.github.io/python-lesson-1/"> <p class="b">Here </p> </a>
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/3tri%2Csqu%2Cpen.PNG?raw=true">
+
 
 <br>This lesson used a lot of logical thinking as we had to plan ahead how we were going to transform our name. This used a lot of trial and error because we had to keep trying new things to eventually get 1 thing that works. After a long time of coding, I was able to make a turtle Write my initails and then fill it in with a colour.
 <video width="560" height="315" controls>
