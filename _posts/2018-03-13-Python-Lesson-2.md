@@ -70,7 +70,11 @@ If you want to learn more, here is a video by the hello world program on what is
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/3tri%2Csqu%2Cpen.PNG?raw=true">
 
 <br>This lesson used a lot of logical thinking as we had to plan ahead how we were going to transform our name. This used a lot of trial and error because we had to keep trying new things to eventually get 1 thing that works. After a long time of coding, I was able to make a turtle Write my initails and then fill it in with a colour.
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/3tri%2Csqu%2Cpen.PNG?raw=true">
+<video width="560" height="315" controls>
+  <source src="https://github.com/jackm245/jackm245.github.io/blob/master/images/13repl.it%20-%20turtle%20edited%20name%20-%20Google%20Chrome%2013_03_2018%2022_48_43.mp4" type="video/mp4">
+  <source src="https://github.com/jackm245/jackm245.github.io/blob/master/images/13repl.it%20-%20turtle%20edited%20name%20-%20Google%20Chrome%2013_03_2018%2022_48_43.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 
 
 
