@@ -53,15 +53,15 @@ If you want to learn more, here is a video by the hello world program on what is
     <th class="lb">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td><br>Right at the beginning of the lesson, I leart many new commands. These included: wn=turtle.Screen(), wn.bgcolor("lightblue"), t.begin_fill(), t.fillcolor("pink").The first of these commands allows us to just type wn instead of turtle.Screen(). The second allows us to use the wn but also changes the back ground colour to any colour of our chosing. In thhis exmaple, I chose light blue, however, you can tyoe any colour you want by name or also use hexadecimal to enter any colour. After this, we can make the turtle, not just draw a shape but fill it in with anny colour of our choosinf, and again, we could type this colour or use hexadecimal. In this example I choose pink. Using all of these command, you can make something that looks like this:
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/1triangle.PNG?raw=true">
+    <td><br>Right at the beginning of the lesson, I leart many new commands. These included: wn=turtle.Screen(), wn.bgcolor("lightblue"), t.begin_fill(), t.fillcolor("pink").The first of these commands allows us to just type wn instead of turtle.Screen(). The second allows us to use the wn but also changes the back ground colour to any colour of our chosing. In this exmaple, I chose light blue, however, you can tyoe any colour you want by name or also use hexadecimal to enter any colour. After this, we can make the turtle, not just draw a shape but fill it in with anny colour of our choosinf, and again, we could type this colour or use hexadecimal. In this example I choose red. Using all of these command, you can make something that looks like this:
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/11square.PNG?raw=true">
 
 
 
 <br>I also learnt how to type my code faster using shortcuts. in python, there are multiples ways to say one thing, it is not like maths where there is only 1 correct answer. for example to speed up me typing my code, Instead of typing turtle.forward(100) I could say t=turtle and then t.forward(100).I could speed this uo even further using t.fd(100), in which fd is a shortcut for forward. here is a list of shortcuts:
 
 
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/2triangle.PNG?raw=true">
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/12shortcuts.PNG?raw=true">
 
 
 <br>Finding out these shortcuts took my a while to research, it really made me persevere when things didnt go my way however.
@@ -70,13 +70,9 @@ If you want to learn more, here is a video by the hello world program on what is
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/3tri%2Csqu%2Cpen.PNG?raw=true">
 
 <br>This lesson used a lot of logical thinking as we had to plan ahead how we were going to transform our name. This used a lot of trial and error because we had to keep trying new things to eventually get 1 thing that works. After a long time of coding, I was able to make a turtle Write my initails and then fill it in with a colour.
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/4nsided.PNG?raw=true">
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/3tri%2Csqu%2Cpen.PNG?raw=true">
 
 
-
-Our final task was to make the turtle draw our name. This is quite easy for me as I have a very short, simple name, Jack. This did require a lot of perseverance however. I found the J easy, just a line at the top, a line going down and then a small curve. However, the a was a bit harder. I wanted to do a lowercase a, however, there are so many different fonts and types of a's. In the end, I went for the simple circle-ish shape with a curve in the bottom right hand corner. I found the C easy, just one big curve. The K was also easy, just 3 lines, however, getting the angles right took a bit of trying. I did find it hard to try and get ll of the letters to have the same height be in the same row and be the same distance away from each other. In the end, my name looked like this: 
-
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/6name.PNG?raw=true">
 
 
 
