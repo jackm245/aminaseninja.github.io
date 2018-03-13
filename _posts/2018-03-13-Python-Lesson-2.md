@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <th class="lb">Starting point:</th>
-    <td>I had used python turtle before</td>
+    <td>I had written my name in Python</td>
   </tr>
   <tr>
     <th class="lb">Target for this lesson?</th>
-    <td>To add more code to my "dictionary" and to learn about turtle.</td>
+    <td>To learn more commands in python and t make my name in "bubble writing"</td>
   </tr>
   <tr>
     <th class="lb">Did I reach my target? 
 </th>
-    <td>Yes, I have learnt a lot about python and how to use the turtle feature.</td>
+    <td>Yes, I have managed to create my name in bubble writing usin pthon turtle..</td>
   </tr>
 </table>
 
@@ -53,9 +53,7 @@ If you want to learn more, here is a video by the hello world program on what is
     <th class="lb">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>After signing up to repl.it, were given the task to create one of the simplest shapes there is, a triangle. First, we had to import turtle. This allowed us to have a little turtle on our screen that could draw lines. Using the turtle.forward(), turtle.backward(), turtle.left() and turtle.right() commands, we were able to move the turtle forwards, backwards, left and right. 
-
-However, our task was to create a triangle. To do this I told my python to go forwards 100 pixels. Then, it turned left 60 degrees, then it went forward 100 and went left 60, then finally forward 100 and left 60. My code looked something like this:
+    <td>Right at the beginning of the lesson, I leart many new commands. These included: wn=turtle.Screen(), wn.bgcolor("lightblue")
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/1triangle.PNG?raw=true">
 
 
