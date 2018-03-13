@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <th class="lb">Title</th>
-    <td>Python Lesson 1</td>
+    <td>Python Lesson 2</td>
     <th class="lb">Date</th>
-    <td>6/03/18</td>
+    <td>13/03/18</td>
   </tr>
 </table>
 
@@ -53,18 +53,20 @@ If you want to learn more, here is a video by the hello world program on what is
     <th class="lb">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>Right at the beginning of the lesson, I leart many new commands. These included: wn=turtle.Screen(), wn.bgcolor("lightblue"), t.begin_fill(), t.fillcolor("pink").The first of these commands allows us to just type wn instead of turtle.Screen(). The second allows us to use the wn but also changes the back ground colour to any colour of our chosing. In thhis exmaple, I chose light blue, however, you can tyoe any colour you want by name or also use hexadecimal to enter any colour. After this, we can make the turtle, not just draw a shape but fill it in with anny colour of our choosinf, and again, we could type this colour or use hexadecimal. In this example I choose pink. Using all of these command, you can make something that looks like this:
+    <td><br>Right at the beginning of the lesson, I leart many new commands. These included: wn=turtle.Screen(), wn.bgcolor("lightblue"), t.begin_fill(), t.fillcolor("pink").The first of these commands allows us to just type wn instead of turtle.Screen(). The second allows us to use the wn but also changes the back ground colour to any colour of our chosing. In thhis exmaple, I chose light blue, however, you can tyoe any colour you want by name or also use hexadecimal to enter any colour. After this, we can make the turtle, not just draw a shape but fill it in with anny colour of our choosinf, and again, we could type this colour or use hexadecimal. In this example I choose pink. Using all of these command, you can make something that looks like this:
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/1triangle.PNG?raw=true">
 
 
 
-I also learnt how to tyoe my code faster using shortcuts. in python, there are multiples ways to say one thing, it is not like maths where there is only 1 correct answer. for example to speed up me typing my code, Instead of typing turtle.forward(100) I could say t=turtle and then t.forward(100).I could speed this uo even further using t.fd(100), in which fd is a shortcut for forward. here is a list of shortcuts:
+<br>I also learnt how to type my code faster using shortcuts. in python, there are multiples ways to say one thing, it is not like maths where there is only 1 correct answer. for example to speed up me typing my code, Instead of typing turtle.forward(100) I could say t=turtle and then t.forward(100).I could speed this uo even further using t.fd(100), in which fd is a shortcut for forward. here is a list of shortcuts:
 
 
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/2triangle.PNG?raw=true">
 
-Our next task was to start on the left hand side, draw a triangle, then draw a square, then draw a pentagon. This introduced the penup() and pendown() commands which stopped and started the turtle from drawing on the page. This allowed us to create 3 separate shapes, looking like this:
 
+<br>Finding out these shortcuts took my a while to research, it really made me persevere when things didnt go my way however.
+
+<br>However, our task for the lesson was to create our name using bubble writing. I had already written my name in my first lesson, I have written a blog o n it here <a href="https://jackm245.github.io/python-lesson-1/">
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/3tri%2Csqu%2Cpen.PNG?raw=true">
 Next we were to create a sort of formula for an “n” sides shape. This used variables. We had two variables, length and sides. Using everything I have learnt so far, my code then looked like this:
 
