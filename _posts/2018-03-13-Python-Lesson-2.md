@@ -53,7 +53,7 @@ If you want to learn more, here is a video by the hello world program on what is
     <th class="lb">How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>Right at the beginning of the lesson, I leart many new commands. These included: wn=turtle.Screen(), wn.bgcolor("lightblue")
+    <td>Right at the beginning of the lesson, I leart many new commands. These included: wn=turtle.Screen(), wn.bgcolor("lightblue"), t.begin_fill(), t.fillcolor("pink").The first of these commands allows us to just type wn instead of turtle.Screen(). The second allows us to use the wn but also changes the back ground colour to any colour of our chosing. In thhis exmaple, I chose light blue, however, you can tyoe any colour you want by name or also use hexadecimal to enter any colour.
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/1triangle.PNG?raw=true">
 
 
