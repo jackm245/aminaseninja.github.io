@@ -66,7 +66,7 @@ If you want to learn more, here is a video by the hello world program on what is
 
 <br>Finding out these shortcuts took my a while to research, it really made me persevere when things didnt go my way however.
 
-<br>However, our task for the lesson was to create our name using bubble writing. I had already written my name in my first lesson, I have written a blog on it  <a href="https://jackm245.github.io/python-lesson-1/"> Here </a>
+<br>However, our task for the lesson was to create our name using bubble writing. I had already written my name in my first lesson, I have written a blog on it  <a href="https://jackm245.github.io/python-lesson-1/"> </a> <p class="b">Here </p>
 <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/3tri%2Csqu%2Cpen.PNG?raw=true">
 Next we were to create a sort of formula for an “n” sides shape. This used variables. We had two variables, length and sides. Using everything I have learnt so far, my code then looked like this:
 
