@@ -65,7 +65,10 @@ If you want to learn more, here is a video by the hello world program on what is
     <th class="lb">What will I change in my script for next time?</th>
   </tr>
   <tr>
-    <td>Next lesson, I will need to add more questions to my buzzfeed quiz and then work out a percentage that then tells the user how …. They are.</td>
+    <td>Next lesson, I will need to add more questions to my buzzfeed quiz and then work out a percentage that then tells the user how …. They are. This is how my quiz looked by the end of the lesson:
+  
+  <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/JACK03_06_18.JPG?raw=true">
+  </td>
   </tr>
 </table>
 
