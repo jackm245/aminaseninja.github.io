@@ -12,5 +12,5 @@ I use Basic to program Fuze boxes, for this the titles of my blog is white. I us
 
 ### Contact me :)
 
-[jack.morgan2@hcalloners.org](mailto:jack.morgan2@challoners.org) 
+[jack.morgan2@challoners.org](mailto:jack.morgan2@challoners.org) 
 
